@@ -1,5 +1,10 @@
+<br>
+<p align="center">
+<img src="cover.png" width=40%>
+</p>
+<br>
+
 # F# projects
-# Natural Language Processing and Deep Learning
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FJnxF%2Ff_sharp_projects)
 [![GitHub stars](https://img.shields.io/github/stars/JnxF/f_sharp_projects.svg)](https://GitHub.com/JnxF/f_sharp_projects/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/JnxF/f_sharp_projects.svg)](https://GitHub.com/JnxF/f_sharp_projects/network/)
